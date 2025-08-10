@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey! I'm
-                <b><a target="_blank" href="https://nicoleg.vercel.app">Nicole Garcia</a></b>
+                <b><a target="_blank" href="https://nicolegarcia.vercel.app">Nicole Garcia</a></b>
         </samp>
 </h3>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://nicoleg.vercel.app" target="blank">
+ <a href="https://nicolegarcia.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="lpurgitoryl" />
  </a>
  <a href="https://www.linkedin.com/in/nicoleb-garcia/" target="_blank">
