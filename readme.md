@@ -27,7 +27,6 @@
 
 <p align="center"> 
   <samp>
-<!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br>
     「 I'm a software engineer and part time tinkerer with a special interest in embedded systems. 」
     <br>
@@ -39,7 +38,7 @@
 
 <p align="center">
  <a href="https://nicolegarcia.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="lpurgitoryl" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logoColor=white" alt="lpurgitoryl" />
  </a>
  <a href="https://www.linkedin.com/in/nicoleb-garcia/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lpurgitoryl"/>
@@ -51,13 +50,19 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/bitmoji.jpg" alt="Myself but in bitmoji form" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ngarcia201@gmail.com<br/><br/>
- <!-- 💬 &emsp; Ask me about anything [here](https://github.com/lpurgitoryl/lpurgitoryl/issues) -->
-
+ 🛠️ &emsp; Building things I probably should’ve just bought<br/><br/>
+ ⚡ &emsp; Maker of bugs, breaker of builds, fixer of both<br/><br/>
+ 
+ <!-- 🏃 &emsp; Marathon trainee – chasing that 10:00/mile pace<br/><br/>
+ 🌐 &emsp; My best freind's have four legs<br/><br/> 💬 &emsp; Ask me about anything [here](https://github.com/lpurgitoryl/lpurgitoryl/issues) -->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </p>
 
 <br/>
