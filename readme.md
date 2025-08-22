@@ -29,7 +29,7 @@
   <samp>
 <!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
     <br>
-    「 I'm a new grad software engineer and part time tinkerer with a special interest in embedded systems. 」
+    「 I'm a software engineer and part time tinkerer with a special interest in embedded systems. 」
     <br>
     Based in <b>SoCal</b> 
     <br>
@@ -98,24 +98,25 @@
 <br/>
 <hr/>
 <br/>
-
+ <!--
 <p align="center">
   <a href="https://github.com/lpurgitoryl">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpurgitoryl&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/lpurgitoryl">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpurgitoryl&theme=radical" alt="Nicole G.'s GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/lpurgitoryl"><img alt="Nicole G.'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lpurgitoryl&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/lpurgitoryl"><img alt="Nicole G.'s Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lpurgitoryl&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+  <!--
+    <a href="https://github.com/lpurgitoryl"><img alt="Nicole G.'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lpurgitoryl&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> ![bitmoji](https://github.com/user-attachments/assets/295b081a-a993-4676-8481-4e200ccf29ca)
 
+  -->
+<p align="center" width="100%">
+  <a href="https://github.com/lpurgitoryl"><img alt="Nicole G.'s Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lpurgitoryl&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
 
 ![Nicole G.'s Graph](https://github-readme-activity-graph.vercel.app/graph?username=lpurgitoryl&custom_title=Nicole%20G's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
